@@ -34,12 +34,6 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 #### Self-Driven Independent Learner
 I do not believe that learning is only for school or job purposes. I believe that learning is a never ending journey. When I chose the path of a software engineer, I did so with the idea that it must become my bread and butter and concluded that programming is a skill that I must endeavour to master.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-
-- Experience
-- Achievements
-- Evidence
 Whenever I am in a new working environment, I realise that I have to actively adjust by taking initiative to learn the ins and outs of my responsibilities. In my previous work as an Accounting Intern, I had to teach myself various practical skills such as expanding my knowledge of excel for bookkeeping and account management as well as learning how to manage the payroll system.
 
 #### Another Skill
@@ -48,11 +42,6 @@ I am also currently teaching myself how to invest in the Forex market. By learni
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 #### Effective Communication with Others
  In this day and age it is crucial to be able to work well with others. I believe that I possess the emotional intelligence skills in order to collaborate with others effectively. My experience of working with other people range from being insistent with group members at Makers regarding having regular meetings to either, catch members up with the progress of the project, or slow members down from going off on a tangent to the objective, to leading the cricket team at University alongside fellow team members, to coordinate events with other clubs and societies and arranging matches or tournaments with other nearby cricket clubs and universities. In my opinion, it is important to be both considerate as well as honest towards others in order to maintain a healthy work relationship.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -71,17 +60,19 @@ At Makers I have had plenty of experience pair programming and working in groups
 - Programming concepts and practices: OOP, TDD, MVC, Agile, Pair Programming,
 
 
-#### University of Buckingham, Buckingham, UK, (2015-2017)
+#### University of Buckingham, Buckingham, UK, (2014-2017)
 
 - Bachelors of Business and Management
 - Took courses in Accounting, Business, Law, Taxation, Financial Management, Psychology and Entrepreneurship.
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+#### INTO City University, London, UK, (2013-2014)
+
+- Foundation Course in Business with Accounting.
+- Took courses in Accounting, Business, Economics and Mathematics.
+
 
 #### Your University / College (start_date to end_date)
-#### City of London School for Boys, London, UK, (2004-2012)
+#### Bay View High School, Karachi, Pakistan (2004-2013)
 
 - Subject, any specialisms
 - Grade
