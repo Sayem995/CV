@@ -28,13 +28,11 @@ Visit my [GitHub](_________________) for a complete list of all my projects.
 
 ## Skills
 
-#### This Skill
 #### Self-Driven Independent Learner
 I do not believe that learning is only for school or job purposes. I believe that learning is a never ending journey. When I chose the path of a software engineer, I did so with the idea that it must become my bread and butter and concluded that programming is a skill that I must endeavour to master.
 
 Whenever I am in a new working environment, I realise that I have to actively adjust by taking initiative to learn the ins and outs of my responsibilities. In my previous work as an Accounting Intern, I had to teach myself various practical skills such as expanding my knowledge of excel for bookkeeping and account management as well as learning how to manage the payroll system.
 
-#### Another Skill
 I am also currently teaching myself how to invest in the Forex market. By learning online and reading books on technical analysis, I have become a much more confident trader.
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -109,3 +107,5 @@ At Makers I have had plenty of experience pair programming and working in groups
 
 
 ## Interests
+- Sports: A passionate cricketer having played club level cricket. An avid table tennis player.
+- Arts: Partook in School and university theatre plays as well as private workshops
