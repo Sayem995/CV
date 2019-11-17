@@ -108,4 +108,4 @@ At Makers I have had plenty of experience pair programming and working in groups
 
 ## Interests
 - Sports: A passionate cricketer having played club level cricket. An avid table tennis player.
-- Arts: Partook in School and university theatre plays as well as private workshops
+- Arts: Partook in School and University theatre plays as well as private workshops. Enjoy doing character studies and learning about different personality traits one can showcase on screen or stage. 
