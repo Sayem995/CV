@@ -26,8 +26,6 @@ Visit my [GitHub](_________________) for a complete list of all my projects.
 | [Wagster](https://github.com/Sayem995/wagster-api) | A full stack web application that allows dog owners to find potential dog buddies for their dogs. I found working as a team quite a challenge, however I did pick up on many dos and don'ts for the future! You can check out the live version [here](https://wagster.herokuapp.com)| React v16 for frontend, bootstrapped with Create React App, Jest + Enzyme for frontend testing, Rails 6 for API based backend, Minitest for backend testing, CircleCI for CI/CD, Heroku for server and database hosting, Amazon S3 for Image Hosting, JWT for authentication, Material-UI for frontend theming |
 <!-- | [Project Name](https://github.com/) | Description | Stack | -->
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
 ## Skills
 
 #### This Skill
@@ -41,16 +39,15 @@ I am also currently teaching myself how to invest in the Forex market. By learni
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 #### Effective Communication with Others
- In this day and age it is crucial to be able to work well with others. I believe that I possess the emotional intelligence skills in order to collaborate with others effectively. My experience of working with other people range from being insistent with group members at Makers regarding having regular meetings to either, catch members up with the progress of the project, or slow members down from going off on a tangent to the objective, to leading the cricket team at University alongside fellow team members, to coordinate events with other clubs and societies and arranging matches or tournaments with other nearby cricket clubs and universities. In my opinion, it is important to be both considerate as well as honest towards others in order to maintain a healthy work relationship.
+ In this day and age it is crucial to be able to work well with others. I believe that I possess the emotional intelligence skills in order to collaborate with others effectively. My experience of working with other people range from being insistent with group members at Makers regarding having regular meetings to either, catch members up with the progress of the project, or slow members down from going off on a tangent to the objective, to leading the cricket team at University alongside fellow team members, to coordinate events with other clubs and societies and arranging matches or tournaments with other nearby cricket clubs and universities.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
 #### Makers (July 2018 - October 2018)
 
 I attended a 16 week Software Engineering Bootcamp where I learnt programming fundamentals and best practices: OOP, BDD, TDD, Pair Programming, MVC architecture, SOLID principles, Agile methodologies. I believe that Makers provided me with a strong foundation to self guide my learning process with the aim of becoming a high calibre Software Engineer.
 
-Although I found the course challenging and had very basic programming knowledge at the start of the course, I did not let that hinder my passion to learn. I persevered with the course, endeavouring to retain all that I could within them 16 weeks. I have utilized many resources (books, youtube, coding websites) in order to support my learning and will continue to do so throughout my career. From my perspective, if I were to work in a team, I would not like that my lack of knowledge would inconvenience my team, therefore it is imperative for me to continually widen my knowledge and skills base. Fortunately, when it comes to coding, there are unlimited amount of resources out there for me to benefit from.
+Although I found the course challenging and had very basic programming knowledge at the start of the course, I did not let that hinder my passion to learn. I persevered with the course, endeavouring to retain all that I could within them 16 weeks. I have utilised many resources (books, youtube, coding websites) in order to support my learning and will continue to do so throughout my career. From my perspective, if I were to work in a team, I would not like that my lack of knowledge would inconvenience my team, therefore it is imperative for me to continually widen my knowledge and skills base. Fortunately, when it comes to coding, there are unlimited amount of resources out there for me to benefit from.
 
 At Makers I have had plenty of experience pair programming and working in groups. Pair programming has been greatly beneficial, especially when following a certain configuration such as the ping pong technique. This way both partners learn how the other solves problems differently. These experiences have given me greater insight on how best to break down problems into manageable chunks. Another essential lesson I have gained from working in larger groups is that communication between all members is absolutely imperative to the success of the group. During group work, I have been insistent that we held regular stand ups, code reviews and retro's, I appreciate how difficult it is to get everyone on the same page, however without this organisation, the team will fail to collaborate effectively.
 
@@ -71,7 +68,6 @@ At Makers I have had plenty of experience pair programming and working in groups
 - Took courses in Accounting, Business, Economics and Mathematics.
 
 
-#### Your University / College (start_date to end_date)
 #### Bay View High School, Karachi, Pakistan (2004-2013)
 
 - Subject, any specialisms
@@ -80,14 +76,35 @@ At Makers I have had plenty of experience pair programming and working in groups
 - A levels: Further Mathematics, Mathematics, Physics.
 - IGCSEs: 11 grade A*-B including Mathematics and English.
 
-#### Any other qualifications
 
-## Experience
+## Professional Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Fitness Cartel** (June 2018 - July 2019)    
+*Co-founder*
+- Project management- Oversee end-to-end process including client acquisition to marketing and sales.
+- Contract Oversight- Responsible for all facets of contract development, including analysis, negotiation and closeout.
+- Business Development- Identify and work with new business areas to assign closeout responsibilities and pinpoint process improvement areas.
+- Prioritisation and multitasking- Manage multiple concurrent processes, and where necessary, strategically prioritise to ensure all deadlines.
+
+**NJF Global Holdings** (February – May 2018)   
+*Research Associate*
+- Sourced, interviewed and hired candidates to fill in key positions within the trading and the technology industries
+-	Built relationships with leading hedge funds and proprietary trading firms operating in the USA and Europe.
+-	Successfully made two placements for a leading bond trading firm.
+
+**Casabella Retail Store** (October 2017-January 2018)
+*Account manager*                                               
+-	Developed an understanding of the retail market sentiments and conditions
+-	Professional financial and accounting experience in the process of company documentation
+
+**Ralph Lauren Retail Outlet** (February-August 2015)
+*Sales Associate*                                       
+-	Responsible for customer service and cash management.
+-	Oversight on Inventory, restocking and packaging.
+-	Coordinated between branch and head office supply chain and marketing for ordering and display of articles.
+-	Achieved strong interpersonal and verbal communication skills.
+
+
 
 
 
