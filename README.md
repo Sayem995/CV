@@ -34,7 +34,7 @@ Whenever I am in a new working environment, I realise that I have to actively ad
 I am also currently teaching myself how to invest in the Forex market. By learning online and reading books on technical analysis, I have become a much more confident trader.
 
 #### Effective Communication with Others
- In this day and age it is crucial to be able to work well with others. I believe that I possess the emotional intelligence skills in order to collaborate with others effectively. My experience of working with other people range from being insistent with group members at Makers regarding having regular meetings to either, catch members up with the progress of the project, or slow members down from going off on a tangent to the objective, to actively taking part in sports that were heavily dependent on team work. Also having worked in Sales, effective communication is a skill I believe to have refined. 
+ In this day and age it is crucial to be able to work well with others. I believe that I possess the emotional intelligence skills in order to collaborate with others effectively. My experience of working with other people range from being insistent with group members at Makers regarding having regular meetings to either, catch members up with the progress of the project, or slow members down from going off on a tangent to the objective, to actively taking part in sports that were heavily dependent on team work. Also having worked in Sales, effective communication is a skill I believe to have refined.
 ## Education
 
 #### Makers (July 2018 - October 2018)
@@ -82,12 +82,12 @@ A 16 week Software Engineering Bootcamp where I learnt programming fundamentals 
 -	Built relationships with leading hedge funds and proprietary trading firms operating in the USA and Europe.
 -	Successfully made two placements for a leading bond trading firm.
 
-**Casabella Retail Store** (October 2017-January 2018)
+**Casabella Retail Store** (October 2017-January 2018)    
 *Account manager*                                               
 -	Developed an understanding of the retail market sentiments and conditions
 -	Professional financial and accounting experience in the process of company documentation
 
-**Ralph Lauren Retail Outlet** (February-August 2015)
+**Ralph Lauren Retail Outlet** (February-August 2015)     
 *Sales Associate*                                       
 -	Responsible for customer service and cash management.
 -	Oversight on Inventory, restocking and packaging.
