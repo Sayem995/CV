@@ -58,15 +58,6 @@ A 16 week Software Engineering Bootcamp where I learnt programming fundamentals 
 - Took courses in Accounting, Business, Economics and Mathematics.
 
 
-#### Bay View High School, Karachi, Pakistan (2004-2013)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-- A levels: Further Mathematics, Mathematics, Physics.
-- IGCSEs: 11 grade A*-B including Mathematics and English.
-
-
 ## Professional Experience
 
 **Fitness Cartel** (June 2018 - July 2019)    
