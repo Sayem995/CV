@@ -24,7 +24,7 @@ Visit my [GitHub](_________________) for a complete list of all my projects.
 | [Bank Tech Test](https://github.com/Sayem995/Bank-Tech-Test) | Tech test practice: Test driven bank simulator in which you can deposit and withdraw an amount and print a statement.   | Ruby, RSpec |
 | [Boris Bikes](https://github.com/Sayem995/BorisBikes2) | Command Line App simulating a boris bike, a docking station and their interactions. This was my first project in Makers where I learned TDD/BDD and how to approach a task in an agile way. | Rspec(testing), SimpleCov(testing coverage) and Rubocop(formatting errors). |
 | [Wagster](https://github.com/Sayem995/wagster-api) | A full stack web application that allows dog owners to find potential dog buddies for their dogs. I found working as a team quite a challenge, however I did pick up on many dos and don'ts for the future! You can check out the live version [here](https://wagster.herokuapp.com)| React v16 for frontend, bootstrapped with Create React App, Jest + Enzyme for frontend testing, Rails 6 for API based backend, Minitest for backend testing, CircleCI for CI/CD, Heroku for server and database hosting, Amazon S3 for Image Hosting, JWT for authentication, Material-UI for frontend theming |
-| [Thermostat](https://github.com/Sayem995/thermostats) | An interactive thermostat to develop understanding of JQuery and AJAX requests  | JavaScript, JQuery, Jasmine |
+| [Thermostat](https://github.com/Sayem995/thermostat) | An interactive thermostat to develop understanding of JQuery and AJAX requests  | JavaScript, JQuery, Jasmine |
 <!-- | [Project Name](https://github.com/) | Description | Stack | -->
 
 ## Skills
