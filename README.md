@@ -11,7 +11,7 @@
 
 Aspiring **Full Stack Software Engineer** determined to find a role in which I can add value and grow to become a world class software engineer. As a recent graduate of a leading software development boot camp, [Makers](https://makers.tech/), I strive to adhere to practices such as TDD/BDD and adopt an Agile development approach. Currently I am focused on enhancing my proficiency in building full stack JavaScript applications with frameworks such as React and Node.
 
-Previously I was pursuing a career in business with accounting, however I found it rather uninspiring and monotonous. After exploring various online resources about coding, I arrived at the conclusion that it very much appealed to my logic and found it hugely stimulating. I recognised that coding triggered within me a compulsive desire to solve problems and allowed me the flexibility to produce innovative solutions to these problems.
+After exploring various online resources about coding, I arrived at the conclusion that it very much appealed to my logic and found it hugely stimulating. I recognised that coding triggered within me a compulsive desire to solve problems and allowed me the flexibility to produce innovative solutions to these problems.
 
 With the intention to dive head first into this new industry, I attended Makers, where I learned that not all problems can be solved on your own, rather a collaborative effort is fundamental to problem solving.
 
